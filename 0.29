@@ -1,0 +1,10 @@
+Collecting numpy
+  Downloading numpy-2.2.5-cp313-cp313-win_amd64.whl.metadata (60 kB)
+Collecting Cython
+  Downloading Cython-3.0.12-cp313-cp313-win_amd64.whl.metadata (3.6 kB)
+Downloading numpy-2.2.5-cp313-cp313-win_amd64.whl (12.6 MB)
+   ---------------------------------------- 12.6/12.6 MB 511.3 kB/s eta 0:00:00
+Downloading Cython-3.0.12-cp313-cp313-win_amd64.whl (2.8 MB)
+   ---------------------------------------- 2.8/2.8 MB 3.0 MB/s eta 0:00:00
+Installing collected packages: numpy, Cython
+Successfully installed Cython-3.0.12 numpy-2.2.5
